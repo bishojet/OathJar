@@ -13,7 +13,6 @@ body{
   background-image: url(../img/background.png);
   background-size: 100% 130%; 
   background-repeat: no-repeat;
-  height: 600px;
   margin-bottom: 120px;
 }
 .main_nav{
