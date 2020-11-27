@@ -47,10 +47,10 @@ body{
   font-size: 37px;
   color: #0d3e60;
   margin-top: -15px;
-  margin-bottom: 50px;
 }
 .communication{
   display: flex;
+  margin-top: 50px;
 }
 .communication .to{
   margin: 0px 10px;
@@ -110,8 +110,6 @@ body{
   margin-top: -3px;
   color: #0d3e60;
 }
-
-
 
 .main_content{
   margin:80px 0px;
@@ -217,23 +215,6 @@ body{
   color: white !important;
 }
 
-.f_content{
-  display: flex;
-}
-
-
-.f_content_left{
-  background-color: red;
-  width: 65%;
-}
-
-.f_content_right{
-  background-color: blue;
-  width: 35%;
-}
-
-
-
 .subscribe{
  display: flex;
  float: right;
@@ -288,24 +269,16 @@ body{
   padding: 0 0 15px 15px;
 }
 
-
-
-
-
-
-
 .cupon{
  display: flex;
  float: right;
 }
-
 .cupon input{
   background-color: transparent;
   border:none;
   width: 250px;
   padding-bottom: 10px;
 }
-
 .cupon input::placeholder{
   color: #2e435e;
   font-size: 16px;
@@ -314,7 +287,6 @@ body{
 .cupon_btn input{
   background-image: linear-gradient(#0099c7, #0099c7);
 }
-
 .cupon, .cupon{
   margin-top: 30px;
   display: flex;
@@ -331,7 +303,6 @@ body{
   font-size:16px;
   padding-top: 8px;
 }
-
 .cupon_content_left h2{
   font-size: 22px;
   color: #2e435e;
@@ -340,12 +311,9 @@ body{
 .cupon_content_left p{
   margin-top: 30px;
 }
-
 .sc_content{
   margin-top: 100px;
 }
-
-
 .footer{
   display: flex;
   margin-top: 100px;
