@@ -1,0 +1,1 @@
+OathJar is a clean PSD-to-HTML conversion project that transforms a design mockup into a responsive, structured webpage using HTML, CSS, and modern layout practices, showcasing front-end development skills through organized sections and pixel-aligned visuals.
